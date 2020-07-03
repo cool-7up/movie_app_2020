@@ -1,0 +1,10 @@
+
+.movie__genres {
+    padding: 0;
+    margin-right: 10px;
+}
+
+.movie__genres .p .span {
+    margin-right: 10px;
+    font-size: 14px;
+}
